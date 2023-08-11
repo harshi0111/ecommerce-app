@@ -1,0 +1,11 @@
+.table tr td img {
+  width: 90px;
+  height: 90px !important;
+  object-fit: cover;
+}
+.table tr td {
+  cursor: pointer;
+}
+.link {
+  text-decoration: none;
+}

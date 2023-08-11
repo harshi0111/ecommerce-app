@@ -1,0 +1,36 @@
+.billing_form .form_group {
+  outline: 1px solid rgb(154, 154, 243);
+  border-radius: 5px;
+}
+.form_group input {
+  border: none;
+  outline: none;
+  padding: 8px 10px;
+}
+.checkout_cart {
+  padding: 20px;
+  background: rgb(183, 183, 252);
+  color: rgb(16, 14, 14);
+  border-radius: 5px;
+}
+.checkout_cart h6,
+h4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.checkout_cart h6 {
+  margin-bottom: 20px;
+}
+.checkout_cart h4 {
+  border-top: 1px solid rgb(194, 200, 250);
+  padding-top: 10px;
+}
+.form_group .buy_btn {
+  padding: 2px;
+  background: aliceblue;
+  color: black;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}

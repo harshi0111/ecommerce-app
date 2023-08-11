@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  /* font-family: "Fira Sans", sans-serif; */
+  font-family: "Rubik", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  padding: 0;
+  margin: 0;
+}
+ul,
+li,
+a {
+  list-style: none;
+  text-decoration: none;
+}
+img {
+  width: 100%;
+}
+section {
+  padding: 60px 0px;
+}
+.section_title {
+  color: rgb(34, 34, 105);
+  font-weight: 600;
+}
+@media only screen and (max-width: 768px) {
+}

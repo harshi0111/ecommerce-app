@@ -1,0 +1,16 @@
+.logo {
+  cursor: pointer;
+  width: 150px;
+  height: 40px;
+}
+.footer_links {
+  background: rgb(201, 201, 253);
+}
+.products_links a {
+  text-decoration: none;
+  font-weight: 700;
+}
+.useful_links a {
+  text-decoration: none;
+  font-weight: 700;
+}
